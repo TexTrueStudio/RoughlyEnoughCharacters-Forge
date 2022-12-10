@@ -1,14 +1,10 @@
 ![Roughly Enough Characters logo, 参考智能ABC](./src/main/resources/assets/roughly-enough-characters/icon.png)
 
-# Roughly Enough Characters
+# Roughly Enough Characters Forge
 
-为 Minecraft 增加拼音搜索。[JustEnoughCharacters](https://github.com/Towdium/JustEnoughCharacters) 的 Fabric 版本。
+为 Minecraft 增加拼音搜索。[Roughly Enough Characters](https://github.com/oott123/RoughlyEnoughCharacters) 的 Forge 版本。
 
 大部分代码参考自 JECH，并使用和 JECH 同样的 [PinIn](https://github.com/Towdium/PinIn) 库实现匹配逻辑。
-
-## 使用
-
-在 [Modrinth](https://modrinth.com/mod/roughly-enough-characters) 上下载后，放入 mods 文件夹即可。
 
 ## Mod 兼容性
 
