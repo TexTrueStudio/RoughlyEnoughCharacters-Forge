@@ -1,0 +1,29 @@
+modLoader = "javafml"
+loaderVersion = "[40,)"
+license = "LGPL v3"
+
+[[mods]]
+modId = "rechars"
+version = "${version}"
+displayName = "Roughly Enough Characters - Forge"
+displayURL="https://changeme.dev/" #optional
+logoFile="icon.png"
+credits="oott123" #optional
+authors="TexTrueStudio, BocchiKessokuTeam, TexTrue" #optional
+description = '''
+为 Minecraft 增加拼音搜索，RECH 的 Forge 版本
+'''
+
+[[dependencies.rechars]]
+modId = "forge"
+mandatory = true
+versionRange = "[40,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.rechars]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.18.2,)"
+ordering = "NONE"
+side = "BOTH"

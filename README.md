@@ -8,7 +8,7 @@
 
 ## 使用
 
-在 [Modrinth](https://modrinth.com/mod/roughly-enough-characters) 上下载后，放入 mods 文件夹即可。
+在 [Modrinth](https://modrinth.com/mod/rech-forge) 上下载后，放入 mods 文件夹即可。
 
 ## Mod 兼容性
 
