@@ -38,8 +38,8 @@ dependencies {
     forge "net.minecraftforge:forge:${project.forge_version}"
 
     modCompileOnly  "mezz.jei:jei-${minecraft_version}-forge:${jei_version}"
-    modImplementation 'com.github.Towdium:PinIn:1.5.0'
-    include 'com.github.Towdium:PinIn:1.5.0'
+    modImplementation include('com.github.Towdium:PinIn:1.5.1')
+    //include 'com.github.Towdium:PinIn:1.5.1'
 }
 
 processResources {

@@ -5,8 +5,8 @@ license = "LGPL v3"
 [[mods]]
 modId = "rechars"
 version = "${version}"
-displayName = "Roughly Enough Characters - Forge"
-displayURL="https://changeme.dev/" #optional
+displayName = "RoughlyEnoughCharacters-Forge"
+displayURL="https://github.com/TexTrueStudio/RoughlyEnoughCharacters-Forge" #optional
 logoFile="icon.png"
 credits="oott123" #optional
 authors="TexTrueStudio, BocchiKessokuTeam, TexTrue" #optional
