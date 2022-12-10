@@ -1,0 +1,29 @@
+modLoader = "javafml"
+loaderVersion = "[40,)"
+license = "LGPLv3"
+
+[[mods]]
+modId = "rechars"
+version = "${version}"
+displayName = "RoughlyEnoughCharacters-Forge"
+displayURL="https://github.com/TexTrueStudio/RoughlyEnoughCharacters-Forge" #optional
+logoFile="icon.png"
+credits="oott123" #optional
+authors="TexTrueStudio, BocchiKessokuTeam, TexTrue" #optional
+description = '''
+为 Minecraft 增加拼音搜索，RECH 的 Forge 版本
+'''
+
+[[dependencies.rechars]]
+modId = "forge"
+mandatory = true
+versionRange = "[40,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.rechars]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.19,)"
+ordering = "NONE"
+side = "BOTH"
