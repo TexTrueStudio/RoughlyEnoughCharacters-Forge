@@ -19,10 +19,8 @@
 * JEI (by @vfyjxf)
 * Tom's Simple Storage Mod (by @vfyjxf)
 
-目前我没有精力接受适配需求，主要适配自己玩的 Mod，但不反对任何人在 Issue 中提出适配需求。
+目前我没有精力接受适配需求，但不反对任何人在 Issue 中提出适配需求。
 
 ## 开发
 
 如果你想为某个 Mod 增加适配，请参考 [mixins](./src/main/java/com/oott123/rechars/mixins) 文件夹实现对应逻辑，然后在 [roughly-enough-characters.mixins.json](./src/main/resources/roughly-enough-characters.mixins.json) 中添加对应的 Mixin Class 定义即可。
-
-我会定期接受适配的 Pull Request。

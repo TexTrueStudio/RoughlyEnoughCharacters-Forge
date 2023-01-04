@@ -1,6 +1,5 @@
 package com.oott123.rechars;
 
-//import net.fabricmc.api.ModInitializer;
 import net.minecraftforge.fml.IExtensionPoint;
 import net.minecraftforge.fml.ModLoadingContext;
 import net.minecraftforge.fml.common.Mod;
